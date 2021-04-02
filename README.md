@@ -1,16 +1,21 @@
+# Karan Mahboobani
+
 ### Hi there 👋
 
-<!--
-**pingatkaran/pingatkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pingatkaran" alt="agamkoradiya" /> </p>
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Android development with Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ReactNative
+
+
+<a href="https://www.instagram.com/corporate_kaamwala/"> Instagram </a>
+
+<a href="https://www.linkedin.com/in/karanpb250/"> Linkedin </a>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingatkaran&layout=compact" alt="agamkoradiya" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=pingatkaran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingatkaran&theme=black-blue" alt="pingatkaran"/>
