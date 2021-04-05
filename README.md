@@ -1,8 +1,9 @@
 # Karan Mahboobani
 
-### Hello 👋
+### Hello, fellow <developers/>! 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pingatkaran" alt="agamkoradiya" /> </p>
+[![GitHub pingatkaran](https://img.shields.io/github/followers/pingatkaran?label=follow&style=social)](https://github.com/pingatkaran)&nbsp;
 
 🔭 I’m currently working on Android development with Kotlin
 
