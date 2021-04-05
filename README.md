@@ -2,8 +2,7 @@
 
 ### Hello, fellow <developers/>! 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pingatkaran" alt="agamkoradiya" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/pingatkaran?label=follow&style=social" alt="agamkoradiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pingatkaran" alt="agamkoradiya" /> </p>
 
 
 🔭 I’m currently working on Android development with Kotlin
