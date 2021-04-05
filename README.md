@@ -1,6 +1,6 @@
 # Karan Mahboobani
 
-### Hello, fellow <developers/>! 👋
+### Hello, fellow developers 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pingatkaran" alt="agamkoradiya" /> </p>
 
