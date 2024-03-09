@@ -10,7 +10,7 @@
 🌱 I’m currently learning ReactNative
 
 
-<a href="https://www.instagram.com/corporate_kaamwala/"> Instagram </a>
+<a href="https://www.instagram.com/random__variable__/"> Instagram </a>
 
 <a href="https://www.linkedin.com/in/karanpb250/"> Linkedin </a>
 
