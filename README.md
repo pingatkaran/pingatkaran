@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on Android development with Kotlin
 
-🌱 I’m currently learning ReactNative
+🌱 I’m currently learning Jetpack Compose and Kotlin Multiplatform
 
 
 <a href="https://www.instagram.com/random__variable__/"> Instagram </a>
