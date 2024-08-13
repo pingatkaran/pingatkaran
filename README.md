@@ -18,4 +18,4 @@
 
 <a href="https://www.linkedin.com/in/karanpb250/"> Linkedin </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingatkaran&theme=black-blue" alt="pingatkaran"/>
+
